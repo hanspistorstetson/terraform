@@ -1,3 +1,2 @@
-vsphere_server   = "192.168.1.175"
-vsphere_user     = "administrator@vsphere.local"
-vsphere_password = "Pa$$w0rd"
+vsphere_user     = "hpistor@ad.stetson.edu"
+vsphere_password = "Sabals123!@#123"
